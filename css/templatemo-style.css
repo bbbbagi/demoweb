@@ -597,7 +597,9 @@ video::-webkit-media-controls {
   -webkit-transition: all 0.2s linear;
 }
 
-
+.fivth-content h4 {
+    text-transform: uppercase;
+}
 
 /*
 =======================
